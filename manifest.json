@@ -1,0 +1,15 @@
+{
+    "short_name": "Elm Counter",
+    "name": "Elm App that acts as a counter",
+    "icons": [
+      {
+        "src": "icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "./counter.html",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  } 
